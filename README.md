@@ -96,7 +96,7 @@ The paid maternity leave has an average of 11weeks and 6weeks unpaid, while, the
 
 ## Paid & Unpaid Parental Leave Cycle
 
-![](PPAL_Cycle.PNG)
+![](PPAL_Cycle_new.PNG)
 
 Considering the average parental leave, 89% of companies prefer leave below 12weeks, 10% prefer 12-24weeks and just a minute percentage prefer leave above 24weeks.
 
